@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css?family=Jua');
+
+.App {
+  text-align: center; 
+  background-color: rgb(255, 255, 152); 
+}
+
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+.inputFields { 
+  font-size: 20px;
+  text-align: center;
+  font-family: 'Jua', sans-serif; 
+}
+
+.labels { 
+  font-family: 'Jua', sans-serif;
+  padding-top: 20px;
+}
+
+.buttonDiv { 
+  padding-top: 20px;
+  width: 40px;
+  font-family: 'Jua', sans-serif;
+  text-align: center;
+  display: inline-block;
+
+}
+
+.App-header { 
+  font-size: 30px;
+  font-family: 'Jua', sans-serif;
+  padding-top: 80px;
+  padding-bottom: 20px;
+}
